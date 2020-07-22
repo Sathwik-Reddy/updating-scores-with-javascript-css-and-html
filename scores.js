@@ -37,7 +37,7 @@ d.addEventListener('click',function(){
 });
 f.addEventListener('click',function(){
 	reset()
-})
+});
 function reset(){
 	isgame=true;
 	count1=0;
